@@ -1,0 +1,9 @@
+.git/
+data/
+notebooks/
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+README.md
