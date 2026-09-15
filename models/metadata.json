@@ -1,0 +1,16 @@
+{
+  "num_var": [
+    "Income",
+    "Recency",
+    "Age",
+    "Number_kids",
+    "Monetary",
+    "Frequence"
+  ],
+  "optimal_k": 2,
+  "silhouette_score": 0.314786744568687,
+  "persona_map": {
+    "0": "Clientèle Économe",
+    "1": "Clientèle Premium VIP"
+  }
+}
