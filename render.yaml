@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: customer-segmentation-clustering-api
+    runtime: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /health
